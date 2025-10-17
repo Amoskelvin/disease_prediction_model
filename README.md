@@ -19,4 +19,5 @@ Since I couldn’t find real hospital data, I created a custom dataset of common
    cd disease_prediction_model
 
 2. Run the prediction script:
+    ```bash
     python sickness_predict.py
